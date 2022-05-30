@@ -12,6 +12,18 @@
   - 모델링을 통한 가격예측
   - K-fold 교차 검증
 
+## 파일설명
+
+### 데이터수집
+
+#### [제주렌트카 프로젝트 크롤링](https://github.com/GS-Jo/Reg-Project/blob/main/regression_project_selenium.ipynb)
+
+### 프로젝트 파일
+
+#### [제주렌트카 프로젝트 전처리](https://github.com/GS-Jo/Reg-Project/blob/main/preprocessing_Rentcar.ipynb)
+
+#### [제주렌트카 프로젝트 EDA&모델링](https://github.com/GS-Jo/Reg-Project/blob/main/EDA_Modeling.ipynb)
+
 #
 ## 1.주제 선정
 - 코로나 이슈 떄문에 제주도 렌트카 가격이 급증하고있다.
