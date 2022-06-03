@@ -148,9 +148,9 @@
 - train RMSE : 7377.90
 - test RMSE : 11651.45
 #
-### 최적의 데이터 전처리 방법 및 모델
-- 데이터 전처리 방법 : 범주형 데이터를 모두 one-hot incoding + 카테고리 임베딩을 통해 수치형으로 변환
-- 최적의 모델 : RandomForest Regressor
+### 최적의 모델
+- 카테고리컬한 컬럼을 one-hot incoding + 카테고리 임베딩 겸용하여 수치형데이터 변환
+- RandomForest Regressor를 활용했을 때 가장 좋은 결과가 나왔음
 - R-squared : 0.784
 - RMSE : 11651.45
 
